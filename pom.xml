@@ -5,6 +5,8 @@
 	<artifactId>DemoRest</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+
+
 	<name>DemoRest Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
@@ -62,6 +64,7 @@
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
 			<version>5.2.4.Final</version>
+
 		</dependency>
 		<dependency>
 			<groupId>javax.el</groupId>
